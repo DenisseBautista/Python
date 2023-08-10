@@ -1,2 +1,2 @@
 # Python
-En este espacio se encuentran ejercicios en python.
+En este espacio se encuentran ejercicios elaborador en python.
